@@ -1,0 +1,111 @@
+#navbar{
+    display: flex   ;
+    justify-content: space-between;
+    align-items: center;
+}
+#right-nav{
+    width: 20%;
+    display: flex;
+  
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    color: black;
+    font-size: larger;
+}
+body{
+    padding: 20px;
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+ }
+ #blue {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: darkblue;
+ }
+ #colorss {
+    display: flex;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 30px;
+    font-size: 25px;
+    justify-content: space-around;
+    width: 300px;
+ }
+ #red {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: darkred;
+ }
+ #black {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: black;
+ }
+ #purple{
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: purple;
+ }
+ .button-31 {
+   background-color: #222;
+   border-radius: 4px;
+   border-style: none;
+   box-sizing: border-box;
+   color: #fff;
+   cursor: pointer;
+   display: inline-block;
+   font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 1.5;
+   margin: 0;
+   max-width: none;
+   min-height: 44px;
+   min-width: 10px;
+   outline: none;
+   overflow: hidden;
+   padding: 9px 20px 8px;
+   position: relative;
+   text-align: center;
+   text-transform: none;
+   user-select: none;
+   -webkit-user-select: none;
+   touch-action: manipulation;
+   width: 100%;
+ }
+ 
+ .button-31:hover,
+ .button-31:focus {
+   opacity: .75;
+ }
+#krejtaa {
+   display: flex;
+}
+#fotoja {
+   width: 350px;
+   height: 350px;
+   background-color: #D2C7F0;
+   margin-top: 70px;
+}
+#backroundi {
+   background-color: #D2C7F0; 
+   width: 650px;
+   height: 500px;
+   align-content: center;
+   display: flex;
+   justify-content: center;
+ ;
+}
+#right-side {
+   margin-left: 70px;
+   margin-top: 30px;
+}

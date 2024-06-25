@@ -1,0 +1,35 @@
+#navbar{
+    display: flex   ;
+    justify-content: space-between;
+    align-items: center;
+}
+#right-nav{
+    width: 20%;
+    display: flex;
+  
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    color: black;
+    font-size: larger;
+}
+body{
+    padding: 20px;
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;}
+#krejtta {
+    display: flex;
+    justify-content: space-around;
+}
+#inputa {
+    -webkit-box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.31); 
+box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.31);
+border-top: none;
+border-right: none;
+border-left: none;
+border-bottom: none;
+}
